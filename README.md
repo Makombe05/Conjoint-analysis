@@ -24,3 +24,11 @@ The analysis where conducted using R considering the text file of rank preferenc
 
 #
 <img width="1200" height="900" alt="important of attribute" src="https://github.com/user-attachments/assets/8166a786-330e-4187-95f1-7b90180e1e21" />
+
+# Result 
+from the result shows that people priotise the size of the company where here people choose to worh on the small company size berieveing there will not be to much preasure and over working.
+Followed by working location where from the analysis shows people prefere to work Hyblid rather than remote or in the ofice. 
+
+<img width="1400" height="1200" alt="important level for each atribute" src="https://github.com/user-attachments/assets/0f6c386b-b230-4d22-a8e8-505a693e7858" />
+
+as shown in the graph the grean boxplot represent what people prefere mostly while appling for the job position. 
