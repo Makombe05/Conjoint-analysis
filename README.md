@@ -23,3 +23,4 @@ using R data were extracted from the Google form and cleaned and remove missing 
 The analysis where conducted using R considering the text file of rank preference of jobs from differece people, here the result were showned using number values and graphs 
 
 #
+<img width="1200" height="900" alt="important of attribute" src="https://github.com/user-attachments/assets/8166a786-330e-4187-95f1-7b90180e1e21" />
