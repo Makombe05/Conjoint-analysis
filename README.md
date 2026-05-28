@@ -12,7 +12,7 @@ Annual Bonus: 0% Fixed, 10% of Base, 25% of Performance
 Company Size: Small, Mid-size, Big Company
 
 # Data collection 
-The data was corrected to different people through Questionnare where people from different country lived in CAssino where asked to fill their oppinions concerning different nine jobs proposed from the four attributes and different levels 
+The data was collected to different people through Questionnare where people from different country lived in CAssino where asked to fill their oppinions concerning different nine jobs proposed from the four attributes and different levels 
 
 more than 30 people filled the questionare and the data was corrected from student and workers 
 
