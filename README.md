@@ -1,4 +1,4 @@
-# What Matters Most in a Job? A Conjoint Analysis of Candidate Preferences
+# What Matters Most in a Job Selection ? A Conjoint Analysis of Candidate Preferences
 This project uses Choice-Based Conjoint (CBC) methodology to quantify how people value different job attributes. By forcing respondents to rank job offers with varying characteristics, we move beyond simple "wish lists" to discover what people are actually willing to sacrifice (eg, how much salary is worth a remote work setup?).
 # The Attributes & Levels
 here people analyzed 9 unique job profiles based on four key attributes:
