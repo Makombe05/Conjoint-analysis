@@ -14,7 +14,7 @@ Company Size: Small, Mid-size, Big Company
 # Data collection 
 The data was collected to different people through Questionnare where people from different countries lived in CAssino where asked to fill their oppinions concerning different nine jobs proposed from the four attributes and different levels 
 
-more than 30 people filled the questionare and the data was corrected from student and workers 
+more than 37 people filled the questionare and the data was corrected from student and workers 
 
 # Data cleaning 
 using R data were extracted from the Google form and cleaned and remove missing data and create different CSV which can be used for different resarch but the important one needed here was the one showing the rank of those Nine jobs where people ranked them from 1 to 9.
